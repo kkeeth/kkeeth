@@ -1,7 +1,9 @@
-<a href="https://github.com/kkeeth/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kkeeth&show_icons=true&theme=highcontrast&line_height=40" />
-</a>
-<a href="https://github.com/kkeeth/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeeth&theme=highcontrast" />
-</a>
+## GitHub Stats
+
+![kkeeth's github stats](https://github-readme-stats.vercel.app/api?username=kkeeth&show_icons=true&theme=highcontrast&line_height=40)
+![kkeeth's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkeeth&theme=highcontrast)
 <!-- &layout=compact -->
+
+## GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
